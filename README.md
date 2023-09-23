@@ -3,10 +3,10 @@ Description: Our Simple Learning Management System (LMS) is designed to make onl
 
 Key Pages:
 
-Company and Courses: Get an overview of our institution and browse through available courses.
+1.Company and Courses: Get an overview of our institution and browse through available courses.
 
-Student Dashboard: Access your enrolled courses, see your tutors, and track your progress.
+2.Student Dashboard: Access your enrolled courses, see your tutors, and track your progress.
 
-Teacher's Workspace: Upload course videos and add notes to enhance your teaching materials.
+3.Teacher's Workspace: Upload course videos and add notes to enhance your teaching materials.
 
-Simplify your online learning experience with our LMS today!
+
